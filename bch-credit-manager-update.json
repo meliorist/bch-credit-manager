@@ -1,0 +1,21 @@
+{
+	"name": "BCH CME Credit Manager",
+	"version": "0.3",
+	"download_url": "https:/www.meliorist.com/plugins/bch_cme_credit_manager/bch-cme-credit-manager.zip",
+
+	"homepage": "https://www.meliorist.com/",
+	"requires": "4.5",
+	"tested": "4.8",
+	"last_updated": "2021-03-31 16:17:00",
+	"upgrade_notice": "",
+
+	"author": "Stephan Fopeano",
+	"author_homepage": "https://www.meliorist.com/",
+
+	"sections": {
+		"description": "Manages CME Credits for LearnDash courses. Developed for Boston Children's Hospital.",
+		"installation": "Installation instructions",
+		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>",
+		"custom_section": "For use by Boston Children's Hospital"
+	}
+}
